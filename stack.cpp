@@ -100,6 +100,8 @@ int main()
         case 2:
             stack.pop();
             break;
-        case
+        case 3:
+            stack.peek();
+            break;
 
 
