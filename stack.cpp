@@ -16,3 +16,5 @@ public:
 
 // stack class
 class stack
+{
+private:
