@@ -38,4 +38,9 @@ public:
     }
 
     void pop()
+     {
+        if (isEmpty())
+        {
+            cout << "Stack is empty." << endl;
+        }
 
